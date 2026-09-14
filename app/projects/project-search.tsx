@@ -23,4 +23,4 @@ export function ProjectSearch({ projects }: Props) {
     </>
   );
 }
-{/* struggled a bit here because the search works on local but not on network */}
+{/* struggled a bit here because the search works on local but not on network, idk if  */}
