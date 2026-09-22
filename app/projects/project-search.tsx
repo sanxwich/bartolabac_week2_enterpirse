@@ -1,6 +1,6 @@
 "use client";
 
-import type { Project } from "../lib/projects";
+import type { Project } from "../../lib/projects";
 import { ProjectList } from "./project-list";
 import { useState } from "react";
 
