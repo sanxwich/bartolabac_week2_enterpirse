@@ -1,5 +1,5 @@
 import Link from "next/link";
-import type { Project } from "../lib/projects";
+import type { Project } from "../../lib/projects";
 
 type Props = {projects: Project[]};
 export function ProjectList({projects} : Props){
