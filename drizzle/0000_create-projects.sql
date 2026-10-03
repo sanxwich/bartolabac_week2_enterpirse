@@ -9,4 +9,4 @@ CREATE TABLE "projects" (
 	CONSTRAINT "projects_slug_unique" UNIQUE("slug")
 );
 --> statement-breakpoint
-ALTER TABLE "projects" ENABLE ROW LEVEL SECURITY;
+ALTER TABLE "projects" ENABLE ROW LEVEL SECURITY;	
